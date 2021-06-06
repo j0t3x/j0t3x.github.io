@@ -1,0 +1,54 @@
+#title in header
+title: "Jose Palacios Blog"
+
+#main info
+#owner
+owner: "Jose Palacios"
+email: jmpd1988@gmail.com
+info: "I'm a peruvian 🇵🇪 Software Developer"
+#description
+desc: "Something"
+
+#menu
+menu:
+  Ideas: /Ideas
+  Tech: /Tech
+  About: /About
+
+#index/main page max show posts (in number)
+max_post: 4
+
+# Colors use hex color without #
+# Theme color
+tcolor: 0FAACE
+
+# Define path to user css
+#(could be also located outside of theme)
+# Relative to source/ directory
+usercss: css/user.css
+
+# social profile at the footer/bottom
+footer: true
+placename: Pimentel
+placelink: https://es.wikipedia.org/wiki/Pimentel_(Chiclayo)
+github: https://github.com/j0t3x
+linkedin: https://linkedin.com/in/thetex/
+#twitter: https://twitter.com/JM_Palacios
+#instagram: https://instagram.com/adisaktijrs
+
+# Misc
+nanobar: /js/nanobar.min.js
+switch_light: ☀️
+switch_dark: 🌑
+
+# favicon
+favicon: /images/favicon.png
+# thumbnail
+thumbnail: /images/thumbnail.jpg
+
+article:
+  thumbnail: true
+
+# DISQUS comments (sign up to Disqus to get disqus_shortname)
+disqus_enabled: true
+disqus_shortname: pala-dev
